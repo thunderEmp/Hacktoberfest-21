@@ -14,10 +14,10 @@ var participants =
       "quote":"One day you will leave this world behind so live a life you will remember!"
    },
    {  
-    "github":"Github Handle",
-    "name":"Name",
-    "intro":"Anything you want to share !!",
-    "quote":"quote ✨"
+    "github":"chhabraharsh37",
+    "name":"Harsh Chhabra",
+    "intro":"founder at CODEFLOW | gdsc lead",
+    "quote":"I ❤ code"
  },
  {  
   "github":"Github Handle",
