@@ -2,7 +2,7 @@
 html,body{
     margin: 0;
     padding: 0;
-
+    overflow-x: hidden;
 }
 a , a:hover , a:link {
     text-decoration: none;
@@ -37,4 +37,5 @@ a , a:hover , a:link {
 .footer{
     color:white;
     background: black;
+   
 }
