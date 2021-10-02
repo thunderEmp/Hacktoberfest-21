@@ -8,10 +8,10 @@ var participants =
       "quote":"Do what you like! ❤"
    },
    {  
-      "github":"Github Handle",
-      "name":"Name",
-      "intro":"Anything you want to share !!",
-      "quote":"quote ✨"
+      "github":"fts18",
+      "name":"Ananay",
+      "intro":"Web Designer",
+      "quote":"One day you will leave this world behind so live a life you will remember!"
    },
    {  
     "github":"Github Handle",
