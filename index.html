@@ -9,14 +9,20 @@
 </head>
 <body >
 <div class="header">
+  <nav class="navbar navbar-light bg-light ">
+    <a class="navbar-brand px-4" href="#">
+      <img src="./HacktoberFestShortLogo.svg" width="40" height="40" alt="">
+    </a>
+    <a class="navbar-text mx-4" onclick="smoothScroll(document.getElementById('contributors'))">Contributers</a>
+  </nav>
 </div>
 <div class="main">
   <div class="hacktoberfest">
     <img src="HacktoberfestLogo.svg" / height="550px" width="550px">
   </div>
 </div>
-<div class=" d-flex flex-column contributors justify-content-center">
-  <div class=" px-5 py-3 m-3 card fs-1 text-center"> Contributors List 🌎</div>
+<div class=" d-flex flex-column contributors justify-content-center" id="contributors">
+  <div class=" px-5 py-3 m-3 card fs-3 text-center"> Contributors List 🌎</div>
   <div class="container"><div class="row row-cols-1 row-cols-md-3 g-4 " id="list">
     <!-- cards here     -->
   </div></div>
@@ -25,7 +31,7 @@
 <div class="footer">
   <footer class="footer">
     
-    <div class=" text-white bg-dark  px-5 py-3 mt-3 card fs-4 text-center ">
+    <div class=" text-white bg-dark  px-5 py-3 mt-3 card fs-6 text-center ">
          Show some ❤ by contributing !! &copy; 2021, ALL Rights Reserved</div>
        
 </div>
