@@ -14,10 +14,10 @@ var participants =
       "quote":"One day you will leave this world behind so live a life you will remember!"
    },
    {  
-    "github":"Github Handle",
-    "name":"Name",
-    "intro":"Anything you want to share !!",
-    "quote":"quote ✨"
+    "github":"https://github.com/PallaviPareek",
+    "name":"Pallavi Pareek",
+    "intro":"Frontend Web Developer and UI/UX Designer",
+    "quote":"Leave a litte spark ✨ where ever you go"
  },
  {  
   "github":"Github Handle",
