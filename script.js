@@ -8,16 +8,16 @@ var participants =
       "quote":"Do what you like! ❤"
    },
    {  
-      "github":"Github Handle",
-      "name":"Name",
-      "intro":"Anything you want to share !!",
-      "quote":"quote ✨"
+      "github":"fts18",
+      "name":"Ananay",
+      "intro":"Web Designer",
+      "quote":"One day you will leave this world behind so live a life you will remember!"
    },
    {  
-    "github":"Github Handle",
-    "name":"Name",
-    "intro":"Anything you want to share !!",
-    "quote":"quote ✨"
+    "github":"chhabraharsh37",
+    "name":"Harsh Chhabra",
+    "intro":"founder at CODEFLOW | gdsc lead",
+    "quote":"I ❤ code"
  },
  {  
   "github":"Github Handle",
@@ -59,3 +59,26 @@ function renderCards(){
       theDiv.insertAdjacentHTML('beforeend',content);
     }
   }
+
+  window.smoothScroll = function(target) {
+    var scrollContainer = target;
+    do { //find scroll container
+        scrollContainer = scrollContainer.parentNode;
+        if (!scrollContainer) return;
+        scrollContainer.scrollTop += 1;
+    } while (scrollContainer.scrollTop == 0);
+
+    var targetY = 0;
+    do { //find the top of target relatively to the container
+        if (target == scrollContainer) break;
+        targetY += target.offsetTop;
+    } while (target = target.offsetParent);
+
+    scroll = function(c, a, b, i) {
+        i++; if (i > 30) return;
+        c.scrollTop = a + (b - a) / 30 * i;
+        setTimeout(function(){ scroll(c, a, b, i); }, 20);
+    }
+    // start scrolling
+    scroll(scrollContainer, scrollContainer.scrollTop, targetY, 0);
+}
