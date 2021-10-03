@@ -16,6 +16,7 @@
 [Twinshu Parmar](https://github.com/twi05)\
 [Harsh Chhabra](https://github.com/chhabraharsh37)
 [Twinshu Parmar](https://github.com/twi05)
+[Swati Meena](https://github.com/swatigothwal)
 [Vishesh Rathi](https://github.com/rathi710)\
 [Vishnu Ram V](https://github.com/vishnuramv)
 [Lokesh Gawande](https://github.com/lokesh21012002)

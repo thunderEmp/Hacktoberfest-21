@@ -44,6 +44,12 @@ var participants =
   "quote":"perseverance beats the tides of tough times ✨"
 },
 {  
+  "github":"swatigothwal",
+  "name":"Swati Meena",
+  "intro":"I am a sea! Wild, free & be.you.tiful",
+  "quote":"The way to get started is to quit talking and begin doing ✨"
+   },
+{
   "github":"rathi710",
   "name":"Vishesh Rathi",
   "intro":"web developer || coder",
