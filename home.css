@@ -37,6 +37,60 @@ nav a:hover{
     background-size: cover;
 }
 
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #ebeef1;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+      margin: 0;
+     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(235, 169, 107);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+  }
+
+  .about{
+    display: flex;
+    height: 60 px;
+    background-color: rgb(253, 218, 185);
+    color:rgb(8, 8, 8);
+    min-height: 50px;
+    background-attachment: fixed;   
+    font-family: Arial, Helvetica, sans-serif;
+    font-display:inherit;
+    font-style: normal;
+    font-stretch: inherit;
+}
+
+.about .max-width .row{
+  margin-right: 0;
+}
+
+.about .about-content a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 25px;
+    padding: 12px 36px;
+    margin-top: 20px;
+    font-weight: 400;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+  
 .footer{
     color:white;
     background: black;
