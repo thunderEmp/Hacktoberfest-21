@@ -26,6 +26,12 @@ var participants =
     "quote":"I ❤ code"
  },
  {  
+  "github":"amanverma644",
+  "name":"Aman Verma",
+  "intro":"Web Developer & Competitive Programmer",
+  "quote":"Eager to learn new things.."
+ },
+{
   "github":"parzival27000",
   "name":"Mayank Jha",
   "intro":"Undergrad in pursuit of my goals",
