@@ -1,5 +1,7 @@
 # Hackoberfest 2021
 
+
+
 ![image](https://user-images.githubusercontent.com/56452820/135710328-77619907-0fce-41c3-964e-add982dbc17b.png)
 <div align="center">
 
@@ -11,7 +13,7 @@
 
 
 
-## Our Valuable Contributors👩‍💻👨‍💻 :
+### Our Valuable Contributors👩‍💻👨‍💻 :
 <table>
   <tr>
     <td>
@@ -22,14 +24,14 @@
   </tr>
 </table>
 
-Color Palette
-https://colorhunt.co/palette/f9f3dfcdf2caffdefaffc898
+[Color Palette](https://colorhunt.co/palette/f9f3dfcdf2caffdefaffc898)
+
 
  
 
 # 📌Steps to contribute.
 
-1. Register your GitHub ID on hackoberfest website. ( https://hacktoberfest.digitalocean.com/ )
+1. Register your GitHub ID on [Hackoberfest Website](https://hacktoberfest.digitalocean.com/)
 
 2. Fork this repository.
 
@@ -37,12 +39,13 @@ https://colorhunt.co/palette/f9f3dfcdf2caffdefaffc898
 
 3. Add an algorithms in desired algorithm in specified folder(create new folders as per your requirement). Anything goes, from android to ML to anything you like.
 
-4. Add your name and github profile link in contributors.md as follows
+4. Add your name and github profile link in [Contributors.md](https://github.com/hkaur008/Hacktoberfest-21/blob/main/Contributors.md) as follows
 ```markdown
-   - [seemantaggarwal](https://github.com/seemantaggarwal)
-   - [hargunkaur](https://github.com/hkaur008)
+   - [seemantaggarwal](https://github.com/seemantaggarwal)\
+   - [hargunkaur](https://github.com/hkaur008)\
+   - [fts18](https://github.com/fts18)\
    ```
-5. Send a pull request
+5. Send a [Pull request](https://github.com/hkaur008/Hacktoberfest-21/pulls)
 6. I'll take a look at change and then merge them with master branch.
 
 You can also also add your name in `script.js` file in `participants` list . 
