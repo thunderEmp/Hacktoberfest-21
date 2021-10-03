@@ -13,4 +13,5 @@
 [Agnese Beschin](https://github.com/AgneseB2)\
 [Aman Verma][https://github.com/amanverma644]
 [Twinshu Parmar](https://github.com/twi05)
+[Lokesh Gawande](https://github.com/lokesh21012002)
 [Harshita Sharma](https://github.com/harshita214)
