@@ -44,6 +44,12 @@ var participants =
   "quote":"perseverance beats the tides of tough times ✨"
 },
 {  
+  "github":"vishnuramv",
+  "name":"Vishnu Ram V",
+  "intro":"Rookie dev | GDSC-CIT management lead",
+  "quote":"quote ✨"
+},
+{ 
   "github":"lokesh21012002",
   "name":"Lokesh Gawande",
   "intro":"Web developer and Computer programmer",
