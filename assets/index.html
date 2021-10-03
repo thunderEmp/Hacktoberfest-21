@@ -1,0 +1,160 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>Hacktoberfest-21</title>
+  <meta name="description" content="Our first page">
+  <meta name="keywords" content="html tutorial template">
+  <link href="home.css" rel="stylesheet" />
+  <link rel="icon" type="image/png" href="HacktoberFestShortLogo.svg"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha512-q3eWabyZPc1XTCmF+8/LuE1ozpg5xxn7iO89yfSOd5/oKvyqLngoNGsx8jq92Y8eXJ/IRxQbEC+FGSYxtk2oiw==" crossorigin="anonymous" referrerpolicy="no-referrer" />  <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script>
+    //NavBar Menu Code
+    $(document).ready(function() {
+      $('.toggle').click(function() {
+        $('.menuBtn').toggleClass('active')
+        $('.menu').toggleClass('active')
+        $('body').toggleClass('disabledScroll')
+        $('.scrollUp.active').toggleClass('active')
+      })
+      const scrollUp = document.querySelector('.scrollUp');
+      window.addEventListener('scroll', () => {
+        if (window.pageYOffset > 120) {
+          scrollUp.classList.add('active');
+        }
+        else {
+          scrollUp.classList.remove('active');
+        }
+      })
+
+    })
+
+    function sendEmail() {
+      var retVal = confirm("Please don't share any sensitive or personal information with us!");
+      if (retVal == true) {
+        return true;
+      } else {
+        return false;
+      }
+    }
+  </script>
+</head>
+
+<body style="font-family: 'Poppins', sans-serif; font-weight: 600;">
+  <header>
+    <nav>
+      <a href="https://hacktoberfest-21.herokuapp.com/">
+        <div class="logo">
+          <img src="HacktoberfestLogo.svg">
+        </div>
+      </a>
+      <a class="toggle" style="color: #fff" href="javascript:void(0)">
+        <span class="menuBtn"><i class="material-icons">short_text</i></span>
+        <span class="menuBtn"><i class="material-icons">close</i></span>
+      </a>
+      <a class="theme" href="index.html">
+        <i class="fas fa-adjust"></i>
+      </a>
+      <div class="menu">
+        <div class="menuContents">
+          <a href="index.html">Home</a>
+          <a href="https://hacktoberfest.digitalocean.com/register">Register</a>
+          <a href="https://github.com/search?q=hacktoberfest2021&type=Repositories">Explore</a>
+          <a href="https://github.com/hkaur008/Hacktoberfest-21/blob/main/CONTRIBUTING.md">Contribute</a>
+          <a href="https://github.com/hkaur008/Hacktoberfest-21/issues">Help Us</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <div class="page">
+    <div class="main">
+      <div class="hacktoberfest">
+        <img src="HacktoberfestLogo.svg">
+      </div>
+      <a class="contribute" href="#">Contribute</a>
+    </div>
+    <div class=" d-flex flex-column contributors justify-content-center">
+      <div class=" px-5 py-3 m-3 card fs-1 text-center"> Contributors List 🌎</div>
+      <div class="container">
+        <div class="row row-cols-1 row-cols-md-3 g-4 " id="list">
+          <!-- cards here     -->
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="left box">
+        <h2>About Us</h2>
+        <div class="footer-content">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor in velit in semper. Donec in ex rhoncus metus malesuada lacinia nec sit amet nunc. In ac quam non ipsum dapibus porttitor sit amet et erat. Fusce eu leo orci. Maecenas ac aliquet justo, ut dictum nunc. Mauris vel condimentum felis. Duis ipsum velit, tempor venenatis libero sed, aliquam maximus ex. Praesent gravida vitae est sit amet tempor. Fusce ex purus, tristique quis consectetur ac, elementum nec tortor. Cras scelerisque tellus et mauris rhoncus, vitae pulvinar metus rhoncus.</p>
+          <div class="footer-f">
+            <a href="https://youtube.com/c/spacify18" class="fa fa-youtube-play"></a>
+            <a href="mailto:spacify1807@gmail.com?Subject=Hi%20there!" class="fa fa-comments"></a>
+            <a href="instagram.com/spacify18" class="fa fa-instagram"></a>
+            <!--<a href="https://GitHub.com/fts18" class="fa fa-github"></a>-->
+            <a href="https://twitter.com/spacify18" class="fa fa-twitter"></a>
+          </div>
+        </div>
+      </div>
+      <div class="center box">
+        <h2>Connect</h2>
+        <div class="footer-content">
+          <div class="place">
+            <a href="#"><span class="fa fa-map"></span>
+              <span class="location text">Kanpur, India</span></a>
+          </div>
+          <div class="phone">
+            <a href="#"><span class="fa fa-broadcast-tower"></span>
+              <span class="phone text">+91-8887685797</span></a>
+          </div>
+          <div class="email">
+            <a href="mailto:spacify1807@gmail.com?Subject=Hi%20there!" target="_self">
+              <span class="fa fa-at"></span>
+              <span class="email text">spacify1807@gmail.com</span></a>
+          </div>
+        </div>
+      </div>
+      <div class="right box">
+        <h2>Contact Us</h2>
+        <div class="footer-content">
+          <form onsubmit="return sendEmail();" action="https://formspree.io/f/mzbyyran" method="POST" enctype="multipart/form-data" accept-charset="utf-8">
+            <div class="email">
+              <div class="text">Email<sup> (<sub>*</sub>)</sup>
+              </div>
+              <input autocomplete="off" placeholder="Enter your email..." type="email" name="_replyto" required>
+            </div>
+            <div class="msg">
+              <div class="text">Message<sup> (<sub>*</sub>)</sup>
+              </div>
+              <textarea maxlength="400" autocomplete="off" name="upload" id="Emailtextarea" rows="2" cols="25" placeholder="Enter the message here..." required></textarea>
+              <span id="counter-box" class="counter-box">
+                <span id="text-count">1
+                </span>/400
+              </span>
+            </div>
+            <div class="sendEmail">
+              <button type="submit">Send</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </footer>
+    <div class="bottom">
+      <center>
+        <span class="credit">Show some love by<a href="#"> contributing!</a><br />
+          2021 All Rights Reserved under <a href="LICENCE.md">MIT</a> License</span>
+      </center>
+    </div>
+  </div>
+  <script src="script.js" />
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+</body>
+
+</html>
