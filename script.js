@@ -14,7 +14,7 @@ var participants =
       "quote":"One day you will leave this world behind so live a life you will remember!"
    },
    {  
-    "github":"https://github.com/PallaviPareek",
+    "github":"PallaviPareek",
     "name":"Pallavi Pareek",
     "intro":"Frontend Web Developer and UI/UX Designer",
     "quote":"Leave a litte spark ✨ where ever you go"
@@ -38,16 +38,28 @@ var participants =
   "quote":"Eager to learn new things.."
  },
 {
-  "github":"parzival27000",
+  "github":"parzival272000",
   "name":"Mayank Jha",
   "intro":"Undergrad in pursuit of my goals",
   "quote":"perseverance beats the tides of tough times ✨"
 },
 {  
-  "github":"Github Handle",
-  "name":"Name",
-  "intro":"Anything you want to share !!",
+  "github":"rathi710",
+  "name":"Vishesh Rathi",
+  "intro":"web developer || coder",
+  "quote":"care less, you'll be less stressed.✨"
+ },
+{
+  "github":"vishnuramv",
+  "name":"Vishnu Ram V",
+  "intro":"Rookie dev | GDSC-CIT management lead",
   "quote":"quote ✨"
+},
+{ 
+  "github":"lokesh21012002",
+  "name":"Lokesh Gawande",
+  "intro":"Web developer and Computer programmer",
+  "quote":"Tech Enthusiast✨"
 },
 {  
   "github":"Github Handle",
@@ -55,6 +67,12 @@ var participants =
   "intro":"Anything you want to share !!",
   "quote":"quote ✨"
 },
+{  
+  "github":"harshita214",
+  "name":"Harshita sharma",
+  "intro":"Expoloring and learning new tech stacks, Currently in Web-Development and DSA !!",
+  "quote":"What goes around comes around"
+}
 
   
 ]
