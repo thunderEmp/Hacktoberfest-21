@@ -29,7 +29,7 @@ https://colorhunt.co/palette/f9f3dfcdf2caffdefaffc898
 
 # 📌Steps to contribute.
 
-1. Register your GitHub ID on hackoberfest website. ( https://hacktoberfest.digitalocean.com/ )
+1. Register your GitHub ID on hackoberfest website. ( https://hacktoberfest.digitalocean.com/ ).
 
 2. Fork this repository.
 
@@ -60,5 +60,5 @@ All of your suggestions are welcome!!
 1. Check if your code is already present the library.
 2. If it is present then please don't add your code. If you could make the existing code better, then go ahead.
 3. Follow the <a href = "https://en.wikipedia.org/wiki/Camel_case">camelCase </a> naming convention for source files.
-4. If you want to make a folder please keep the first letter of the folder name capital.
+4. If you want to make a folder, please keep the first letter of the folder name capital.
 5. Add your code to the proper folder.
