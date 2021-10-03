@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
 <head>
+ <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/60788180/135729299-a3482fcf-1caf-4707-b7a0-d6a53e185a7d.png"/>
 <title>Hacktoberfest-21</title>
 <meta name="description" content="Our first page">
 <meta name="keywords" content="html tutorial template">
@@ -9,14 +10,20 @@
 </head>
 <body >
 <div class="header">
+  <nav class="navbar navbar-light bg-light ">
+    <a class="navbar-brand px-4" href="#">
+      <img src="./HacktoberFestShortLogo.svg" width="40" height="40" alt="">
+    </a>
+    <a class="navbar-text mx-4" onclick="smoothScroll(document.getElementById('contributors'))">Contributers</a>
+  </nav>
 </div>
 <div class="main">
   <div class="hacktoberfest">
     <img src="HacktoberfestLogo.svg" / height="550px" width="550px">
   </div>
 </div>
-<div class=" d-flex flex-column contributors justify-content-center">
-  <div class=" px-5 py-3 m-3 card fs-1 text-center"> Contributors List 🌎</div>
+<div class=" d-flex flex-column contributors justify-content-center" id="contributors">
+  <div class=" px-5 py-3 m-3 card fs-3 text-center"> Contributors List 🌎</div>
   <div class="container"><div class="row row-cols-1 row-cols-md-3 g-4 " id="list">
     <!-- cards here     -->
   </div></div>
