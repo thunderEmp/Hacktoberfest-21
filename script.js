@@ -26,10 +26,10 @@ var participants =
     "quote":"I ❤ code"
  },
  {  
-  "github":"Github Handle",
-  "name":"Name",
-  "intro":"Anything you want to share !!",
-  "quote":"quote ✨"
+  "github":"parzival27000",
+  "name":"Mayank Jha",
+  "intro":"Undergrad in pursuit of my goals",
+  "quote":"perseverance beats the tides of tough times ✨"
 },
 {  
   "github":"Github Handle",
