@@ -25,6 +25,7 @@
 Color Palette
 https://colorhunt.co/palette/f9f3dfcdf2caffdefaffc898
 
+ 
 
 # 📌Steps to contribute.
 
@@ -44,6 +45,8 @@ https://colorhunt.co/palette/f9f3dfcdf2caffdefaffc898
 5. Send a pull request
 6. I'll take a look at change and then merge them with master branch.
 
+You can also also add your name in `script.js` file in `participants` list . 
+![image](https://user-images.githubusercontent.com/56452820/135738350-544c461c-3296-4a7a-a8aa-6cd6fa229545.png)
 
 ### Happy coding fellas!!💕✨
 Don't worry newcomers!! Everyone's PRs will be merged,just follow the steps properly!!
