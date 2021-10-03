@@ -55,6 +55,12 @@ var participants =
   "intro":"Anything you want to share !!",
   "quote":"quote ✨"
 },
+{  
+  "github":"harshita214",
+  "name":"Harshita sharma",
+  "intro":"Expoloring and learning new tech stacks, Currently in Web-Development and DSA !!",
+  "quote":"What goes around comes around"
+}
 
   
 ]
