@@ -59,3 +59,8 @@ nav a:hover{
     font-size: 27.5px;
     font-weight: 700;
 }
+
+.small-footer-icons {
+    max-width: 400px;
+}
+
