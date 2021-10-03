@@ -13,4 +13,5 @@
 [Agnese Beschin](https://github.com/AgneseB2)\
 [Aman Verma][https://github.com/amanverma644]
 [Twinshu Parmar](https://github.com/twi05)
+[Vaibhav Singhal](https://github.com/Vaibhav5702)
 
