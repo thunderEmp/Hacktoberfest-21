@@ -17,6 +17,7 @@
 [Harsh Chhabra](https://github.com/chhabraharsh37)
 [Twinshu Parmar](https://github.com/twi05)
 [Vaibhav Singhal](https://github.com/Vaibhav5702)
+[Gargi Agrawal](https://github.com/gargi-agrawal)
 [Swati Meena](https://github.com/swatigothwal)
 [Vishesh Rathi](https://github.com/rathi710)\
 [Vishnu Ram V](https://github.com/vishnuramv)
