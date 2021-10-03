@@ -38,7 +38,7 @@ var participants =
   "quote":"Eager to learn new things.."
  },
 {
-  "github":"parzival27000",
+  "github":"parzival272000",
   "name":"Mayank Jha",
   "intro":"Undergrad in pursuit of my goals",
   "quote":"perseverance beats the tides of tough times ✨"

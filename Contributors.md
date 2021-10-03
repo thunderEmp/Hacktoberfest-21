@@ -9,6 +9,7 @@
 [abdoelhafi](https://github.com/abdoelhafi)
 [Atif](https://github.com/mdatif796)\
 [Ananay](https://github.com/fts18)\
+[Mayank Jha](https://github.com/parzival272000)\
 [Sejal Dahake](https://github.com/sejalxz)\
 [Agnese Beschin](https://github.com/AgneseB2)\
 [Aman Verma][https://github.com/amanverma644]
