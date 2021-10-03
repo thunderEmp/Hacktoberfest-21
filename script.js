@@ -50,10 +50,10 @@ var participants =
   "quote":"quote ✨"
 },
 {  
-  "github":"Github Handle",
-  "name":"Name",
-  "intro":"Anything you want to share !!",
-  "quote":"quote ✨"
+  "github":"MrM-7",
+  "name":"Mehul Raj",
+  "intro":"Web Developer || Coder",
+  "quote":"I love coding!! ✨"
 },
 
   
