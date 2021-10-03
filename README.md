@@ -1,4 +1,4 @@
-# Hackoberfest 2021
+# Hacktoberfest 2021
 
 
 
@@ -31,13 +31,14 @@
 
 # 📌Steps to contribute.
 
+
 1. Register your GitHub ID on [Hackoberfest Website](https://hacktoberfest.digitalocean.com/)
 
 2. Fork this repository.
 
 #### Do the following steps back in my repository(only that will trigger a pull request) and not in your forked one
 
-3. Add an algorithms in desired algorithm in specified folder(create new folders as per your requirement). Anything goes, from android to ML to anything you like.
+3. Add algorithms in desired algorithm in specified folder(create new folders as per your requirement). Anything goes, from android to ML to anything you like.
 
 4. Add your name and github profile link in [Contributors.md](https://github.com/hkaur008/Hacktoberfest-21/blob/main/Contributors.md) as follows
 ```markdown
@@ -45,10 +46,11 @@
    - [hargunkaur](https://github.com/hkaur008)\
    - [fts18](https://github.com/fts18)\
    ```
+   
 5. Send a [Pull request](https://github.com/hkaur008/Hacktoberfest-21/pulls)
 6. I'll take a look at change and then merge them with master branch.
 
-You can also also add your name in `script.js` file in `participants` list . 
+You can also also add your name in `script.js` file in `participants` list. 
 ![image](https://user-images.githubusercontent.com/56452820/135738350-544c461c-3296-4a7a-a8aa-6cd6fa229545.png)
 
 ### Happy coding fellas!!💕✨
