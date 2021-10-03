@@ -14,16 +14,22 @@ var participants =
       "quote":"One day you will leave this world behind so live a life you will remember!"
    },
    {  
+    "github":"https://github.com/PallaviPareek",
+    "name":"Pallavi Pareek",
+    "intro":"Frontend Web Developer and UI/UX Designer",
+    "quote":"Leave a litte spark ✨ where ever you go"
+   },
+  {
     "github":"chhabraharsh37",
     "name":"Harsh Chhabra",
     "intro":"founder at CODEFLOW | gdsc lead",
     "quote":"I ❤ code"
  },
  {  
-  "github":"Github Handle",
-  "name":"Name",
-  "intro":"Anything you want to share !!",
-  "quote":"quote ✨"
+  "github":"parzival27000",
+  "name":"Mayank Jha",
+  "intro":"Undergrad in pursuit of my goals",
+  "quote":"perseverance beats the tides of tough times ✨"
 },
 {  
   "github":"Github Handle",
