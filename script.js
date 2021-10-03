@@ -22,7 +22,7 @@ var participants =
   {
     "github":"chhabraharsh37",
     "name":"Harsh Chhabra",
-    "intro":"founder at CODEFLOW | gdsc lead",
+    "intro":"Founder at Codeflow | Google DSC Lead NIT KKR | Beta Microsoft Learn Student Ambassador | AWS Community Builder | Postman Student Leader | Azure Developer Community Organizer Chandigarh ",
     "quote":"I ❤ code"
  },
  {  
