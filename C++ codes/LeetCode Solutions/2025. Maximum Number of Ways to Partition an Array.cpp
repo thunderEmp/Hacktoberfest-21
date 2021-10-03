@@ -13,7 +13,7 @@ public:
         }
         
         int ans = 0;
-        unordered_map<long long, int> left, right;
+        unordered_map<long long, long long> left, right;
         
         for(int i = 0; i < n-1; i++){
             right[pref[i] - suff[i+1]]++;
