@@ -12,4 +12,5 @@
 [Sejal Dahake](https://github.com/sejalxz)\
 [Agnese Beschin](https://github.com/AgneseB2)\
 [Aman Verma][https://github.com/amanverma644]
+[Twinshu Parmar](https://github.com/twi05)
 

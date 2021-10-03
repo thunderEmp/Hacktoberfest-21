@@ -26,6 +26,12 @@ var participants =
     "quote":"I ❤ code"
  },
  {  
+  "github":"twi05",
+  "name":"Twinshu Parmar",
+  "intro":"I'm First Year CSE Undergrad | Passionate about Photography, Filmmaking, Editing, Webdevelopment and coding",
+  "quote":"Don't Stop Untill U R Proud"
+ },
+{  
   "github":"amanverma644",
   "name":"Aman Verma",
   "intro":"Web Developer & Competitive Programmer",
