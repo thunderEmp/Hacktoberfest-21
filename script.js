@@ -44,10 +44,10 @@ var participants =
   "quote":"perseverance beats the tides of tough times ✨"
 },
 {  
-  "github":"Github Handle",
-  "name":"Name",
-  "intro":"Anything you want to share !!",
-  "quote":"quote ✨"
+  "github":"rathi710",
+  "name":"Vishesh Rathi",
+  "intro":"web developer || coder",
+  "quote":"care less, you'll be less stressed.✨"
 },
 {  
   "github":"Github Handle",
