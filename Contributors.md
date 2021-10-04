@@ -16,6 +16,7 @@
 [Twinshu Parmar](https://github.com/twi05)\
 [Harsh Chhabra](https://github.com/chhabraharsh37)
 [Twinshu Parmar](https://github.com/twi05)
+[Nipun Gupta](https://github.com/dec0deit)
 [Vaibhav Singhal](https://github.com/Vaibhav5702)
 [Gargi Agrawal](https://github.com/gargi-agrawal)
 [Swati Meena](https://github.com/swatigothwal)
