@@ -12,22 +12,8 @@
 </div>
 
 
-
-### Our Valuable Contributors👩‍💻👨‍💻 :
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/hkaur008/Hacktoberfest-21/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=hkaur008/Hacktoberfest-21" />
-      </a>
-     </td>
-  </tr>
-</table>
-
 [Color Palette](https://colorhunt.co/palette/f9f3dfcdf2caffdefaffc898)
 
-
- 
 
 # 📌Steps to contribute.
 
@@ -67,3 +53,15 @@ All of your suggestions are welcome!!
 3. Follow the <a href = "https://en.wikipedia.org/wiki/Camel_case">camelCase </a> naming convention for source files.
 4. If you want to make a folder, please keep the first letter of the folder name capital.
 5. Add your code to the proper folder.
+
+
+### Our Valuable Contributors👩‍💻👨‍💻 :
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/hkaur008/Hacktoberfest-21/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=hkaur008/Hacktoberfest-21" />
+      </a>
+     </td>
+  </tr>
+</table>
