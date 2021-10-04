@@ -1,0 +1,20 @@
+// 199. Binary Tree Right Side View (C++ code)
+
+class Solution {
+public:
+    void doit(TreeNode* r, vector<int>& v,int le)
+    {
+        if(r!=nullptr)
+        {
+            if(le>v.size())
+                v.push_back(r->val);
+            doit(r->right,v,le+1);
+            doit(r->left,v,le+1);
+        }
+    }
+    vector<int> rightSideView(TreeNode* root) {
+        vector<int> ans;
+        doit(root,ans,1);
+        return(ans);
+    }
+};
