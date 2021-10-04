@@ -22,7 +22,7 @@ var participants =
   {
     "github":"chhabraharsh37",
     "name":"Harsh Chhabra",
-    "intro":"founder at CODEFLOW | gdsc lead",
+    "intro":"Founder at Codeflow | Google DSC Lead NIT KKR | Beta Microsoft Learn Student Ambassador | AWS Community Builder | Postman Student Leader | Azure Developer Community Organizer Chandigarh ",
     "quote":"I ❤ code"
  },
  {  
@@ -38,7 +38,7 @@ var participants =
   "quote":"Eager to learn new things.."
  },
 {
-  "github":"parzival27000",
+  "github":"parzival272000",
   "name":"Mayank Jha",
   "intro":"Undergrad in pursuit of my goals",
   "quote":"perseverance beats the tides of tough times ✨"
@@ -49,12 +49,42 @@ var participants =
   "intro":"Just a Kid",
   "quote":"Eat code sleep repeat ✨"
 },
-{  
-  "github":"Github Handle",
-  "name":"Name",
-  "intro":"Anything you want to share !!",
+{   
+  "github":"swatigothwal",
+  "name":"Swati Meena",
+  "intro":"I am a sea! Wild, free & be.you.tiful",
+  "quote":"The way to get started is to quit talking and begin doing ✨"
+   },
+{
+  "github":"rathi710",
+  "name":"Vishesh Rathi",
+  "intro":"web developer || coder",
+  "quote":"care less, you'll be less stressed.✨"
+ },
+{
+  "github":"vishnuramv",
+  "name":"Vishnu Ram V",
+  "intro":"Rookie dev | GDSC-CIT management lead",
   "quote":"quote ✨"
 },
+{ 
+  "github":"lokesh21012002",
+  "name":"Lokesh Gawande",
+  "intro":"Web developer and Computer programmer",
+  "quote":"Tech Enthusiast✨"
+},
+{  
+  "github":"MrM-7",
+  "name":"Mehul Raj",
+  "intro":"Web Developer || Coder",
+  "quote":"I love coding!! ✨"
+},
+{  
+  "github":"harshita214",
+  "name":"Harshita sharma",
+  "intro":"Expoloring and learning new tech stacks, Currently in Web-Development and DSA !!",
+  "quote":"What goes around comes around"
+}
 
   
 ]
