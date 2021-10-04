@@ -84,6 +84,12 @@ var participants =
   "name":"Harshita sharma",
   "intro":"Expoloring and learning new tech stacks, Currently in Web-Development and DSA !!",
   "quote":"What goes around comes around"
+},
+{  
+  "github":"YashGupta29",
+  "name":"Yash Gupta",
+  "intro":"MERN Stack Developer | Freelancer | Competitve Coder",
+  "quote":"Code is Life"
 }
 
   
