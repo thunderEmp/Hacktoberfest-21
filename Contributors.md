@@ -21,6 +21,7 @@
 [Gargi Agrawal](https://github.com/gargi-agrawal)
 [Swati Meena](https://github.com/swatigothwal)
 [Vishesh Rathi](https://github.com/rathi710)\
+[Prannov Jamadagni](https://github.com/Prannov)
 [Vishnu Ram V](https://github.com/vishnuramv)\
 [Lokesh Gawande](https://github.com/lokesh21012002)\
 [Harshita Sharma](https://github.com/harshita214)\
