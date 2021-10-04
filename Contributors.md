@@ -14,12 +14,13 @@
 [Agnese Beschin](https://github.com/AgneseB2)\
 [Aman Verma](https://github.com/amanverma644)\
 [Twinshu Parmar](https://github.com/twi05)\
-[Harsh Chhabra](https://github.com/chhabraharsh37)
-[Twinshu Parmar](https://github.com/twi05)
-[Vaibhav Singhal](https://github.com/Vaibhav5702)
-[Gargi Agrawal](https://github.com/gargi-agrawal)
-[Swati Meena](https://github.com/swatigothwal)
+[Harsh Chhabra](https://github.com/chhabraharsh37)\
+[Twinshu Parmar](https://github.com/twi05)\
+[Vaibhav Singhal](https://github.com/Vaibhav5702)\
+[Gargi Agrawal](https://github.com/gargi-agrawal)\
+[Swati Meena](https://github.com/swatigothwal)\
 [Vishesh Rathi](https://github.com/rathi710)\
-[Vishnu Ram V](https://github.com/vishnuramv)
-[Lokesh Gawande](https://github.com/lokesh21012002)
-[Harshita Sharma](https://github.com/harshita214)
+[Vishnu Ram V](https://github.com/vishnuramv)\
+[Lokesh Gawande](https://github.com/lokesh21012002)\
+[Harshita Sharma](https://github.com/harshita214)\
+[Samir Kaushik](https://github.com/SamirKaushik)
