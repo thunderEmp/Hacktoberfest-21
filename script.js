@@ -44,6 +44,12 @@ var participants =
   "quote":"perseverance beats the tides of tough times ✨"
 },
 {  
+  "github":"dec0deit",
+  "name":"Nipun",
+  "intro":"Just a Kid",
+  "quote":"Eat code sleep repeat ✨"
+},
+{   
   "github":"swatigothwal",
   "name":"Swati Meena",
   "intro":"I am a sea! Wild, free & be.you.tiful",
