@@ -59,3 +59,18 @@ nav a:hover{
     font-size: 27.5px;
     font-weight: 700;
 }
+
+.qrcode {
+    position: absolute;
+    bottom: 0;
+    left: 2%;
+    text-align: left;
+}
+
+.qrcode > img:first-child {
+    width: 30%;
+}
+
+.qrcode .text-white {
+    font-size: 15px;
+}
