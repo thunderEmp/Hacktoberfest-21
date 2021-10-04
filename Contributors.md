@@ -21,6 +21,7 @@
 [Gargi Agrawal](https://github.com/gargi-agrawal)
 [Swati Meena](https://github.com/swatigothwal)
 [Vishesh Rathi](https://github.com/rathi710)\
+[Ishantkhurana](https://github.com/Ishantkhurana)
 [Kanhaiya Kumar](https://github.com/kksingh711)
 [Naval Mahajan](https://github.com/NavalMahajan)
 [Lovesh Verma](https://github.com/lovesh12)
