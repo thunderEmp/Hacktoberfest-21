@@ -23,4 +23,4 @@
 [Vishnu Ram V](https://github.com/vishnuramv)
 [Lokesh Gawande](https://github.com/lokesh21012002)
 [Harshita Sharma](https://github.com/harshita214)\
-[Vikas Yadav](https://github.com/VikasYadav-1)\
+[Vikas Yadav](https://github.com/VikasYadav-1)
