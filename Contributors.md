@@ -23,3 +23,4 @@
 [Vishnu Ram V](https://github.com/vishnuramv)
 [Lokesh Gawande](https://github.com/lokesh21012002)
 [Harshita Sharma](https://github.com/harshita214)
+[Prannov Jamadagni](https://github.com/Prannov)
