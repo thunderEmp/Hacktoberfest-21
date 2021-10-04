@@ -24,3 +24,4 @@
 [Vishnu Ram V](https://github.com/vishnuramv)
 [Lokesh Gawande](https://github.com/lokesh21012002)
 [Harshita Sharma](https://github.com/harshita214)
+[Ayushi Chaudhuri](https://github.com/IUC4801)
