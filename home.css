@@ -64,3 +64,17 @@ nav a:hover{
     max-width: 400px;
 }
 
+.qrcode {
+    position: absolute;
+    bottom: 0;
+    left: 2%;
+    text-align: left;
+}
+
+.qrcode > img:first-child {
+    width: 30%;
+}
+
+.qrcode .text-white {
+    font-size: 15px;
+}
