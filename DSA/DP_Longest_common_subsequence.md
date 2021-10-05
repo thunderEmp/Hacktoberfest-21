@@ -3,6 +3,11 @@
 #### Longest common subsequence of two striings is defined as the longest common subsequence common to two given strings.
 ### Examples:
 ``` 'abcabc' & 'abdabd' have 'abab' as the longest common subsequence```
+
+### LCS Problem: 
+#### It accepts two Strings
+#### It returns the length of the Longest Common Sebsequence
+
 ### Recurrsive Code of LCS:
 ``` #include<bits/stdc++.h>
     using namespace std;
