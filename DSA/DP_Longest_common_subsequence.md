@@ -90,3 +90,55 @@ return 0;
 }
 ```
 #### With these two Methods come to play, the time complexity comes to O(n) and thus it is why the best way to solve this problems is using Dynamic Programming.
+
+### Printing LCS:
+#### This method shows How to print the longest common Subsequence:
+### Code:
+```
+#include<bits/stdc++.h>
+using namespace std;
+ 
+string LCS_topDown(string a,int m,string b,int n){
+    int dp[m+1][n+1];
+    for(int i=0;i<m+1;i++){
+        for(int j=0;j<n+1;j++){
+            if(i==0||j==0){
+                dp[i][j]=0;
+            }
+        }
+    }
+    for(int i=1;i<m+1;i++){
+        for(int j=1;j<n+1;j++){
+            if(a[i-1]==b[j-1]){
+                dp[i][j]=dp[i-1][j-1]+1;
+            }else{
+                dp[i][j]=max(dp[i][j-1],dp[i-1][j]);
+            }
+        }
+    }
+    string ans="";
+    int i=m,j=n;
+    while(i>m && j>n){
+        if(a[i-1]==b[j-1]){
+            ans+=a[i-1];
+            i--;j--;
+        }else{
+            if(dp[i-1][j]>dp[i][j-1]){
+                i--;
+            }else{
+                j--;
+            }
+        }
+    }
+    return ans;
+}
+int main(){
+   string x;
+   cin>>x;
+   string y;
+   cin>>y;
+   cout<<LCS_topDown(x,x.length(),y,y.length());
+return 0;
+}
+
+```
