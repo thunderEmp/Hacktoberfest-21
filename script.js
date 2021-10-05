@@ -44,6 +44,12 @@ var participants =
   "quote":"perseverance beats the tides of tough times ✨"
 },
 {  
+  "github":"dec0deit",
+  "name":"Nipun",
+  "intro":"Just a Kid",
+  "quote":"Eat code sleep repeat ✨"
+},
+{   
   "github":"swatigothwal",
   "name":"Swati Meena",
   "intro":"I am a sea! Wild, free & be.you.tiful",
@@ -78,6 +84,18 @@ var participants =
   "name":"Harshita sharma",
   "intro":"Expoloring and learning new tech stacks, Currently in Web-Development and DSA !!",
   "quote":"What goes around comes around"
+},
+{  
+  "github":"VikasYadav-1",
+  "name":"Vikas Yadav",
+  "intro":"Curently learning web-development and DSA",
+  "quote":"If you get tired learn how to rest, not to quit"
+},
+{   
+  "github":"YashGupta29",
+  "name":"Yash Gupta",
+  "intro":"MERN Stack Developer | Freelancer | Competitve Coder",
+  "quote":"Code is Life"
 }
 
   
