@@ -1,46 +1,33 @@
-#include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
-void binarySearch(int *arr, int n, int search)
-{
-    int s = 0, e = n;
-
-    while (s <= e)
-    {
-        int middleEle = (s + e) / 2;
-        if (arr[middleEle] > search)
-        {
-            e = middleEle - 1;
-        }
-        else if (arr[middleEle] < search)
-        {
-            s = middleEle + 1;
-        }
-        else if (arr[middleEle] == search)
-        {
-            cout << "WE got element on index" << middleEle;
-            return;
-        }
-        else
-            cout << "Element not present";
-    }
-}
-void display(int *arr, int n, int search)
-{
+int main(){
+    int n,num,i,flag=1;
+    cin>>n;
+    int arr[n];
     for (int i = 0; i < n; i++)
     {
-        cout << arr[i] << "\t";
+        cin>>arr[i];
     }
-}
-int main()
-{
+    cin>>num;
 
-    int arr[] = {1, 5, 9, 12, 36, 56, 65, 98};
+    //binary search - sorted array needed
 
-    int n = sizeof(arr) / sizeof(arr[0]);
-    display(arr, n, 98);
-    binarySearch(arr, n, 98);
-    // display(arr, n, 36);
-
-    return 0;
+    int j,start=0 , end=n;
+    while(start<end)
+    {
+        int mid=(start+end)/2;
+        if (arr[mid]== num)
+        {
+            cout<<"The position of the number is:"<<mid+1;
+            cout<<"\nThe number is:"<<num;
+            break;
+        }
+        if (arr[mid] > num)
+        end=mid-1;
+        if (arr[mid] < num)
+        start=mid+1;
+    }
+     
+ return 0;
 }
