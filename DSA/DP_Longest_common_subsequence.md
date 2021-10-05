@@ -21,3 +21,5 @@
     return 0;
     }
 ```
+### Limitation of the recursive code and why Dynamic Programming:
+#### It has a time complexity of 2 power n which is not acceptable. So to reduce the time complexity and to avoid the unneccessary function call, the method of memorisation and tabulation comes into play.
