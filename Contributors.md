@@ -21,6 +21,7 @@
 [Gargi Agrawal](https://github.com/gargi-agrawal)
 [Swati Meena](https://github.com/swatigothwal)
 [Vishesh Rathi](https://github.com/rathi710)\
+[Ayushi Chaudhuri](https://github.com/IUC4801)
 [NAEEMA ZIYAD](https://github.com/naeema-19)
 [Janvi Thakkar](https://github.com/Janvi-Thakkar)
 [Vikas Yadav](https://github.com/VikasYadav-1)
