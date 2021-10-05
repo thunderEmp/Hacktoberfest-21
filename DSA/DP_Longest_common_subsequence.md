@@ -142,3 +142,23 @@ return 0;
 }
 
 ```
+## APPLICATIONS OF LCS:
+### 1. Longest Common Supersubsequence
+#### It is the union of all characters if a string. it can be found as:
+``` Sum of length of both the strings -Length of LCS ```
+
+### 2. Minimum number of insertions and deletions to convert a string A to a string B:
+``` Sum of the length of both the strings A and B - 2* length of LCS```
+
+### 3. Longest Pallindromic Subsequence:
+#### Find the length of the longest pallindromic subsequence formed within a String:
+```
+If A is the given string.
+Then, required length is LCS function of (A,reverse of A); 
+ ```
+### 4. Minimum Number of Deletion to make a string Pallindromic:
+```
+It is the difference of the length of the given string and LCS(A,reverse of A);
+```
+
+## Apart from all these, there are a lot of applications of LCS which can be used in this field.
