@@ -21,6 +21,7 @@
 [Gargi Agrawal](https://github.com/gargi-agrawal)
 [Swati Meena](https://github.com/swatigothwal)
 [Vishesh Rathi](https://github.com/rathi710)\
+[Janvi Thakkar](https://github.com/Janvi-Thakkar)
 [Vikas Yadav](https://github.com/VikasYadav-1)
 [Ishantkhurana](https://github.com/Ishantkhurana)
 [Kanhaiya Kumar](https://github.com/kksingh711)
